@@ -1,0 +1,5 @@
+[requires]
+lib/0.1@build/debug
+
+[generators]
+cmake
